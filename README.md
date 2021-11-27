@@ -3,4 +3,4 @@
 This is a simple readme file
 ##Heading2
 
-Some line in the file.
+The very-bad branch info line!
