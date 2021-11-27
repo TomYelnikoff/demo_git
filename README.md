@@ -3,4 +3,4 @@
 This is a simple readme file
 ##Heading2
 
-Some line!
+A bad commit from the branch.
