@@ -3,4 +3,4 @@
 This is a simple readme file
 ##Heading2
 
-A line of text in the BASE
+A line of text in the LOCAL
